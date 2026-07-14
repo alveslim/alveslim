@@ -26,7 +26,7 @@
 
 ---
 
-## 🏆 Badges
+## 🏆 Objetivo
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCO-AUTOMAÇÃO-00ff00?style=for-the-badge&logo=robot&logoColor=black"/>
