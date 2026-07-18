@@ -26,6 +26,15 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
+    <img alt="github commit grid snake animation" src="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 ## 🏆 Objetivo
 
 <p align="center">
@@ -38,3 +47,7 @@
 ---
 
 ⭐ Se chegou até aqui… já sabe né? Deixa uma estrela nos projetos 😉
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
