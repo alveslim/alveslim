@@ -1,5 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Olá, eu sou o Flávio Alves!
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A2A,100:39D353&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontAlignY=40&descAlignY=60&descAlign=50&fontColor=FFFFFF" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Automação+%7C+Análise+de+Dados;Engenharia+de+Software;Computação;Automatizando+tudo+%F0%9F%A4%96" />
 </p>
@@ -27,6 +28,7 @@
 ---
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alveslim&theme=shadow-green&hide_border=true&border_radius=4.7&card_width=493&card_height=190" alt="GitHub Streak" /></a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
@@ -49,5 +51,5 @@
 ⭐ Se chegou até aqui… já sabe né? Deixa uma estrela nos projetos 😉
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A2A,50:0E4429,100:39D353&height=100&section=footer" />
 </p>
