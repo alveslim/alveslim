@@ -22,10 +22,18 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,c,postgresql,linux,git,github,sqlite,vscode,powershell,flask,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,docker,c,postgresql,linux,sqlite,flask,js,html,css" />
 </p>
 
 ---
+## 🔧 My Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode,powershell,beekeeper" />
+</p>
+
+---
+
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alveslim&theme=shadow-green&hide_border=true&border_radius=4.7&card_width=493&card_height=190" alt="GitHub Streak" /></a>
