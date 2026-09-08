@@ -22,7 +22,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,c,postgresql,linux,sqlite,flask,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,docker,c,postgresql,linux,sqlite,flutter,flask,js,html,css" />
 </p>
 
 ---
