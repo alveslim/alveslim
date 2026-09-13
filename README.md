@@ -22,10 +22,42 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,c,postgresql,linux,sqlite,flutter,flask,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,docker,c,postgresql,linux,sqlite,js,html,css" />
 </p>
 
 ---
+
+## 📚 Bibliotecas & Frameworks
+
+<p align="center">
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Plotly -->
+  <a href="https://plotly.com/python/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" height="50" alt="Plotly" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Pytest -->
+  <a href="https://docs.pytest.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="50" height="50" alt="Pytest" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask" />
+  </a>
+</p>
+
+---
+
 ## 🔧 My Tools
 
 <p align="center">
@@ -33,7 +65,6 @@
 </p>
 
 ---
-
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alveslim&theme=shadow-green&hide_border=true&border_radius=4.7&card_width=493&card_height=190" alt="GitHub Streak" /></a>
@@ -45,6 +76,7 @@
 </div>
 
 ---
+
 ## 🏆 Objetivo
 
 <p align="center">
