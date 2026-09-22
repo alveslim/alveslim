@@ -61,7 +61,7 @@
 ## 🔧 My Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode,powershell,beekeeper" />
+  <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode,powershell,supabase" />
 </p>
 
 ---
