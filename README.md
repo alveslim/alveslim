@@ -19,6 +19,17 @@
 
 ---
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alveslim&theme=shadow-green&hide_border=true&border_radius=4.7&card_width=493&card_height=190" alt="GitHub Streak" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
+    <img alt="github commit grid snake animation" src="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -63,17 +74,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode,powershell,supabase" />
 </p>
-
----
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alveslim&theme=shadow-green&hide_border=true&border_radius=4.7&card_width=493&card_height=190" alt="GitHub Streak" /></a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
-    <img alt="github commit grid snake animation" src="https://raw.githubusercontent.com/alveslim/alveslim/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
