@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg?variant=neon-zones-stars" width="100%" alt="Neon localizado em grupos de contribuições e estrelas encantadas" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/neon-zones-stars/contrib-heatmap.svg?rev=3fcb9cc3d08eefd66c93d2f9ce38872bc174e61f" width="100%" alt="neon-zones-stars animated contribution heatmap" />
 
 </div>
 
