@@ -22,11 +22,7 @@
 
 ## Tecnologias e ferramentas
 
-<p align="center">
-
-<strong style="font-size: 20px;">Python</strong> &nbsp; · &nbsp; <strong style="font-size: 20px;">C</strong> &nbsp; · &nbsp; <strong style="font-size: 20px;">JavaScript</strong>
-
-</p>
+<h3 align="center">Python &nbsp; · &nbsp; C &nbsp; · &nbsp; JavaScript</h3>
 
 <div align="center">
 
