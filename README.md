@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.gif" width="100%" alt="Gráfico animado de contribuições do GitHub com brilho suave" />
+<img src="./contrib-heatmap.svg" width="100%" alt="Calendário de contribuições com brilho sutil em forma de estrela" />
 
 </div>
 
