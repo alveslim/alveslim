@@ -20,9 +20,11 @@
 
 ## Atividade no GitHub
 
+> Prévia de animação: **Mistura equilibrada de pulso gamer, onda de luz e estrelas de encantamento**
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/main/contrib-heatmap.svg?v=32f108a486fa3cf39d8bf1af03389c3889463ec0" width="100%" alt="Calendário de contribuições com brilho sutil em forma de estrela" />
+<img src="./contrib-heatmap.svg?variant=gamer-minecraft-hybrid" width="100%" alt="Mistura equilibrada de pulso gamer, onda de luz e estrelas de encantamento" />
 
 </div>
 
