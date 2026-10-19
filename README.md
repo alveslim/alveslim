@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/gamer-minecraft-hybrid/contrib-heatmap.svg?rev=ad48aa24e1a76657fbdffd59a72b2c2ba18b3db4" width="100%" alt="gamer-minecraft-hybrid animated contribution heatmap" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/gamer-minecraft-hybrid/contrib-heatmap.svg?v=19b77bbf1fac1adfd071d81dc5784bfd080adf2b" width="100%" alt="Efeito híbrido gamer com onda luminosa e estrelas" />
 
 </div>
 
