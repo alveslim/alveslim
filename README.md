@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg?variant=rgb-wave-stars" width="100%" alt="Onda RGB percorrendo o calendário com estrelas cintilantes" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/rgb-wave-stars/contrib-heatmap.svg?rev=8d8399f062cc1a62ee01147555dc0b700d5eb446" width="100%" alt="rgb-wave-stars animated contribution heatmap" />
 
 </div>
 
