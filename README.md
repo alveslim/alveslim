@@ -20,9 +20,11 @@
 
 ## Atividade no GitHub
 
+> Prévia de animação: **Neon localizado em grupos de contribuições e estrelas encantadas**
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/main/contrib-heatmap.svg?v=32f108a486fa3cf39d8bf1af03389c3889463ec0" width="100%" alt="Calendário de contribuições com brilho sutil em forma de estrela" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/neon-zones-stars/contrib-heatmap.svg?v=c4fccf077f570ae8d016671c65f9722f30ddc39e" width="100%" alt="Neon mais forte e localizado em pequenos grupos de contribuições, com estrelas cintilantes" />
 
 </div>
 
