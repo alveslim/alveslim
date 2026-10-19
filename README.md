@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/enchantment-pulse/contrib-heatmap.svg?rev=3e192322294732d446a6f22427036fc73f521ffe" width="100%" alt="enchantment-pulse animated contribution heatmap" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/enchantment-pulse/contrib-heatmap.svg?v=bda167ebd0e5ce010f808b9e43762becba3b35d4" width="100%" alt="Estrelas de encantamento e pulso gamer verde" />
 
 </div>
 
