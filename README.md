@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" width="100%" alt="Gráfico animado de contribuições do GitHub" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/style/perfil-github-limpo/contrib-heatmap.svg" width="100%" alt="Gráfico animado de contribuições do GitHub" />
 
 </div>
 
