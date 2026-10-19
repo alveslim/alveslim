@@ -20,9 +20,11 @@
 
 ## Atividade no GitHub
 
+> Prévia de animação: **Onda RGB percorrendo o calendário com estrelas cintilantes**
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/main/contrib-heatmap.svg?v=32f108a486fa3cf39d8bf1af03389c3889463ec0" width="100%" alt="Calendário de contribuições com brilho sutil em forma de estrela" />
+<img src="./contrib-heatmap.svg?variant=rgb-wave-stars" width="100%" alt="Onda RGB percorrendo o calendário com estrelas cintilantes" />
 
 </div>
 
