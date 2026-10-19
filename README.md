@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Automação+%7C+Análise+de+Dados;Engenharia+de+Software;Computação;Automatizando+tudo+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Developer+%7C+Automation+%7C+Data+Analysis;Software+Engineering;Data+Mining+|+Deep+Learning+|+IA+%F0%9F%A4%96" />
 </p>
 
 <div align="center">
