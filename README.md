@@ -10,11 +10,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" width="100%" alt="Calendário de contribuições do GitHub" />
-
-<br />
-
-<img src="./stats.svg" width="100%" alt="Painel de estatísticas e atividade do GitHub" />
+<img src="./contrib-heatmap.svg" width="100%" alt="Gráfico animado de contribuições do GitHub" />
 
 </div>
 
