@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/rgb-wave-stars/contrib-heatmap.svg?rev=8d8399f062cc1a62ee01147555dc0b700d5eb446" width="100%" alt="rgb-wave-stars animated contribution heatmap" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/rgb-wave-stars/contrib-heatmap.svg?v=2391bb4c08e6f9bf28a8f21a08b2e83e1b4f1d49" width="100%" alt="Onda RGB e estrelas cintilantes no calendário de contribuições" />
 
 </div>
 
