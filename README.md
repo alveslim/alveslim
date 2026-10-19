@@ -12,30 +12,20 @@
 
 ## About me
 
-💻 Estudante de Engenharia de Software
+💻 Software Engineering Student
 
-🚀 Projetos Acadêmicos de Robótica & Desenvolvendo Sistemas
+🚀 Academic Robotics Projects & Systems Development
 
-🤖 Focado em Automação, Análise de Dados, Segurança Digital
+🤖 Focused on Automation, Data Analysis, and Digital Security
 
 > *"Mar calmo nunca fez bom marinheiro."*
 
-## Tecnologias e ferramentas
+## Technologies and tools
 
 <h3 align="center">Python &nbsp; · &nbsp; C &nbsp; · &nbsp; JavaScript</h3>
+<h3 align="center">Postgres &nbsp; · &nbsp; SQLite &nbsp; · &nbsp; Supabase</h3>
+<h3 align="center">Docker &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Terminal</h3>
+<h3 align="center">Pandas &nbsp; · &nbsp; Pytest &nbsp; · &nbsp; Pytorch &nbsp; · &nbsp; Flask</h3>
+<h3 align="center">Machine Learning &nbsp; · &nbsp; Deep Learning &nbsp; · &nbsp; Training AI</h3>
 
-<div align="center">
 
-Também estudando desenvolvimento web, bancos de dados e automação.
-
-</div>
-
-## Projeto em destaque
-
-### [OrthoTest](https://github.com/alveslim/OrthoTest)
-
-Projeto acadêmico em desenvolvimento para praticar programação, organização de dados, testes de software e desenvolvimento incremental.
-
-## Contato
-
-[LinkedIn](https://linkedin.com/in/flávio-alves-b32011241) · [GitHub](https://github.com/alveslim)
