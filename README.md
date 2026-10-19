@@ -6,22 +6,37 @@
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 📊 Minha atividade no GitHub
 
-<p>
+<div align="center">
+
+<img src="./contrib-heatmap.svg" width="100%" alt="Calendário de contribuições do GitHub" />
+
+<br />
+
+<img src="./stats.svg" width="100%" alt="Painel de estatísticas e atividade do GitHub" />
+
+</div>
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,c,flask,postgres,sqlite,supabase,git,github,vscode,linux,docker" alt="Tecnologias e ferramentas" />
-</p>
+</div>
 
 ---
 
-### 📌 Projeto em destaque
+## 📌 Projeto em destaque
 
-**[OrthoTest](https://github.com/alveslim/OrthoTest)**  
-Projeto acadêmico em desenvolvimento. Aplicando conhecimentos de programação, organização de dados e testes de software.
+### [OrthoTest](https://github.com/alveslim/OrthoTest)
+
+Projeto acadêmico em desenvolvimento, no qual pratico programação, organização de dados, testes de software e desenvolvimento incremental.
 
 ---
 
-### 🔗 Contato
+## 🔗 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-alveslim-181717?style=flat&logo=github)](https://github.com/alveslim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/flávio-alves-b32011241)
