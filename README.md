@@ -10,13 +10,21 @@
 
 <br>
 
-<!-- Calendário de Contribuições Animado (Atualizado diariamente via GitHub Actions) -->
+<!-- Calendário de Contribuições Animado -->
 <h3><code>alveslim@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Flávio — atualizado diariamente" />
+<p align="center">
+  <img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Flávio — atualizado diariamente" />
+</p>
 
 <br>
-<br>
+
+<!-- Card de Estatísticas e Streak -->
+<h3><code>alveslim@github ~ $ ./stats.sh</code></h3>
+
+<p align="center">
+  <img src="./stats.svg" width="480" alt="Estatísticas e Streak do GitHub — atualizado diariamente" />
+</p>
 
 <!-- Retrato ASCII (Esquerda) + Card de Estatísticas (Direita) -->
 <h3><code>alveslim@github ~ $ whoami</code></h3>
