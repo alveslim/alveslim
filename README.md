@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/neon-zones-stars/contrib-heatmap.svg?v=799ffd8c1c6b47d05eba9d105b34652ed66609ed" width="100%" alt="Neon localizado em grupos de contribuições e estrelas" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/neon-zones-stars/contrib-heatmap.svg?v=c4fccf077f570ae8d016671c65f9722f30ddc39e" width="100%" alt="Neon mais forte e localizado em pequenos grupos de contribuições, com estrelas cintilantes" />
 
 </div>
 
