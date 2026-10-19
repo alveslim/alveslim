@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg?variant=gamer-minecraft-hybrid" width="100%" alt="Mistura equilibrada de pulso gamer, onda de luz e estrelas de encantamento" />
+<img src="https://raw.githubusercontent.com/alveslim/alveslim/preview/gamer-minecraft-hybrid/contrib-heatmap.svg?rev=ad48aa24e1a76657fbdffd59a72b2c2ba18b3db4" width="100%" alt="gamer-minecraft-hybrid animated contribution heatmap" />
 
 </div>
 
