@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add contrib-heatmap.svg stats.svg
+          git add README.md contrib-heatmap.svg stats.svg
           git diff --staged --quiet || git commit -m "chore: refresh contribution and streak stats [skip ci]"
           git push
