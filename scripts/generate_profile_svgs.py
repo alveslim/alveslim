@@ -27,7 +27,7 @@ def fetch_data():
     soup = BeautifulSoup(resp.text, "html.parser")
     page_text = soup.get_text(" ", strip=True)
     summary_match = re.search(
-        r"([\\d,]+)\\s+contributions?\\s+in the last year",
+        r"([\d,]+)\s+contributions?\s+in the last year",
         page_text,
         re.IGNORECASE,
     )
