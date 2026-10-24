@@ -22,6 +22,7 @@
 
 ## Technologies and tools
 
+<h3 align="center">Jev &nbsp; · &nbsp; LLM &nbsp; · &nbsp; RAG</h3>
 <h3 align="center">Python &nbsp; · &nbsp; C &nbsp; · &nbsp; JavaScript</h3>
 <h3 align="center">Postgres &nbsp; · &nbsp; SQLite &nbsp; · &nbsp; Supabase</h3>
 <h3 align="center">Docker &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Terminal</h3>
