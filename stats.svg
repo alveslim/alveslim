@@ -26,9 +26,9 @@
 
   <rect x="40" y="75" width="365" height="150" rx="10" class="card" />
   <text x="65" y="110" class="k-green">⚡ current streak</text>
-  <text x="65" y="168" class="v-green">13</text>
+  <text x="65" y="168" class="v-green">14</text>
   <text x="175" y="168" class="unit">days</text>
-  <text x="65" y="202" class="sub">Oct 14 → Oct 26</text>
+  <text x="65" y="202" class="sub">Oct 14 → Oct 27</text>
 
   <rect x="435" y="75" width="365" height="150" rx="10" class="card" />
   <text x="460" y="110" class="k-muted"># longest streak</text>
@@ -38,13 +38,13 @@
 
   <rect x="40" y="245" width="365" height="150" rx="10" class="card" />
   <text x="65" y="280" class="k-muted">COMMITS (1Y)</text>
-  <text x="65" y="338" class="v-white">570</text>
+  <text x="65" y="338" class="v-white">585</text>
   <text x="65" y="372" class="sub">last 12 months</text>
 
   <rect x="435" y="245" width="365" height="150" rx="10" class="card" />
   <text x="460" y="280" class="k-muted">ACTIVE DAYS</text>
-  <text x="460" y="338" class="v-white">131</text>
-  <text x="570" y="338" class="unit">/ 367</text>
+  <text x="460" y="338" class="v-white">132</text>
+  <text x="570" y="338" class="unit">/ 368</text>
   <text x="460" y="372" class="sub">36% of the year</text>
 
   <rect x="40" y="415" width="365" height="140" rx="10" class="card" />
@@ -57,9 +57,9 @@
   <text x="460" y="450" class="k-muted">Ø PER DAY</text>
   <text x="460" y="505" class="v-white">1.6</text>
   <text x="585" y="505" class="unit">/ day</text>
-  <text x="460" y="537" class="sub">across 367 days</text>
+  <text x="460" y="537" class="sub">across 368 days</text>
 
   <text x="54" y="595" class="k-muted">CONTRIBUTIONS / MONTH</text>
-  <text x="786" y="595" text-anchor="end" class="sub">peak 184</text>
-  <g class="bar-group" style="animation-delay: 0.2s"><rect x="54" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="76.0" y="799" text-anchor="middle" class="bar-val">0</text><text x="76.0" y="835" text-anchor="middle" class="bar-lbl">Nov</text></g><g class="bar-group" style="animation-delay: 0.25s"><rect x="116" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="138.0" y="799" text-anchor="middle" class="bar-val">0</text><text x="138.0" y="835" text-anchor="middle" class="bar-lbl">Dec</text></g><g class="bar-group" style="animation-delay: 0.3s"><rect x="178" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="200.0" y="799" text-anchor="middle" class="bar-val">3</text><text x="200.0" y="835" text-anchor="middle" class="bar-lbl">Jan</text></g><g class="bar-group" style="animation-delay: 0.35s"><rect x="240" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="262.0" y="799" text-anchor="middle" class="bar-val">3</text><text x="262.0" y="835" text-anchor="middle" class="bar-lbl">Feb</text></g><g class="bar-group" style="animation-delay: 0.4s"><rect x="302" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="324.0" y="799" text-anchor="middle" class="bar-val">6</text><text x="324.0" y="835" text-anchor="middle" class="bar-lbl">Mar</text></g><g class="bar-group" style="animation-delay: 0.45s"><rect x="364" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="386.0" y="799" text-anchor="middle" class="bar-val">4</text><text x="386.0" y="835" text-anchor="middle" class="bar-lbl">Apr</text></g><g class="bar-group" style="animation-delay: 0.5s"><rect x="426" y="791" width="44" height="24" rx="4" fill="#26a641" /><text x="448.0" y="783" text-anchor="middle" class="bar-val">23</text><text x="448.0" y="835" text-anchor="middle" class="bar-lbl">May</text></g><g class="bar-group" style="animation-delay: 0.55s"><rect x="488" y="744" width="44" height="71" rx="4" fill="#26a641" /><text x="510.0" y="736" text-anchor="middle" class="bar-val">67</text><text x="510.0" y="835" text-anchor="middle" class="bar-lbl">Jun</text></g><g class="bar-group" style="animation-delay: 0.6s"><rect x="550" y="688" width="44" height="127" rx="4" fill="#26a641" /><text x="572.0" y="680" text-anchor="middle" class="bar-val">120</text><text x="572.0" y="835" text-anchor="middle" class="bar-lbl">Jul</text></g><g class="bar-group" style="animation-delay: 0.65s"><rect x="612" y="714" width="44" height="101" rx="4" fill="#26a641" /><text x="634.0" y="706" text-anchor="middle" class="bar-val">96</text><text x="634.0" y="835" text-anchor="middle" class="bar-lbl">Aug</text></g><g class="bar-group" style="animation-delay: 0.7s"><rect x="674" y="748" width="44" height="67" rx="4" fill="#26a641" /><text x="696.0" y="740" text-anchor="middle" class="bar-val">64</text><text x="696.0" y="835" text-anchor="middle" class="bar-lbl">Sep</text></g><g class="bar-group" style="animation-delay: 0.75s"><rect x="736" y="620" width="44" height="195" rx="4" fill="#39d353" /><text x="758.0" y="612" text-anchor="middle" class="bar-val">184</text><text x="758.0" y="835" text-anchor="middle" class="bar-lbl">Oct</text></g>
+  <text x="786" y="595" text-anchor="end" class="sub">peak 199</text>
+  <g class="bar-group" style="animation-delay: 0.2s"><rect x="54" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="76.0" y="799" text-anchor="middle" class="bar-val">0</text><text x="76.0" y="835" text-anchor="middle" class="bar-lbl">Nov</text></g><g class="bar-group" style="animation-delay: 0.25s"><rect x="116" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="138.0" y="799" text-anchor="middle" class="bar-val">0</text><text x="138.0" y="835" text-anchor="middle" class="bar-lbl">Dec</text></g><g class="bar-group" style="animation-delay: 0.3s"><rect x="178" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="200.0" y="799" text-anchor="middle" class="bar-val">3</text><text x="200.0" y="835" text-anchor="middle" class="bar-lbl">Jan</text></g><g class="bar-group" style="animation-delay: 0.35s"><rect x="240" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="262.0" y="799" text-anchor="middle" class="bar-val">3</text><text x="262.0" y="835" text-anchor="middle" class="bar-lbl">Feb</text></g><g class="bar-group" style="animation-delay: 0.4s"><rect x="302" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="324.0" y="799" text-anchor="middle" class="bar-val">6</text><text x="324.0" y="835" text-anchor="middle" class="bar-lbl">Mar</text></g><g class="bar-group" style="animation-delay: 0.45s"><rect x="364" y="807" width="44" height="8" rx="4" fill="#26a641" /><text x="386.0" y="799" text-anchor="middle" class="bar-val">4</text><text x="386.0" y="835" text-anchor="middle" class="bar-lbl">Apr</text></g><g class="bar-group" style="animation-delay: 0.5s"><rect x="426" y="793" width="44" height="22" rx="4" fill="#26a641" /><text x="448.0" y="785" text-anchor="middle" class="bar-val">23</text><text x="448.0" y="835" text-anchor="middle" class="bar-lbl">May</text></g><g class="bar-group" style="animation-delay: 0.55s"><rect x="488" y="750" width="44" height="65" rx="4" fill="#26a641" /><text x="510.0" y="742" text-anchor="middle" class="bar-val">67</text><text x="510.0" y="835" text-anchor="middle" class="bar-lbl">Jun</text></g><g class="bar-group" style="animation-delay: 0.6s"><rect x="550" y="698" width="44" height="117" rx="4" fill="#26a641" /><text x="572.0" y="690" text-anchor="middle" class="bar-val">120</text><text x="572.0" y="835" text-anchor="middle" class="bar-lbl">Jul</text></g><g class="bar-group" style="animation-delay: 0.65s"><rect x="612" y="721" width="44" height="94" rx="4" fill="#26a641" /><text x="634.0" y="713" text-anchor="middle" class="bar-val">96</text><text x="634.0" y="835" text-anchor="middle" class="bar-lbl">Aug</text></g><g class="bar-group" style="animation-delay: 0.7s"><rect x="674" y="753" width="44" height="62" rx="4" fill="#26a641" /><text x="696.0" y="745" text-anchor="middle" class="bar-val">64</text><text x="696.0" y="835" text-anchor="middle" class="bar-lbl">Sep</text></g><g class="bar-group" style="animation-delay: 0.75s"><rect x="736" y="620" width="44" height="195" rx="4" fill="#39d353" /><text x="758.0" y="612" text-anchor="middle" class="bar-val">199</text><text x="758.0" y="835" text-anchor="middle" class="bar-lbl">Oct</text></g>
 </svg>
