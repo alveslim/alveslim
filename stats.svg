@@ -44,7 +44,7 @@
   <rect x="435" y="245" width="365" height="150" rx="10" class="card" />
   <text x="460" y="280" class="k-muted">ACTIVE DAYS</text>
   <text x="460" y="338" class="v-white">154</text>
-  <text x="570" y="338" class="unit">/ 366</text>
+  <text x="570" y="338" class="unit">/ 367</text>
   <text x="460" y="372" class="sub">42% of the year</text>
 
   <rect x="40" y="415" width="365" height="140" rx="10" class="card" />
@@ -57,7 +57,7 @@
   <text x="460" y="450" class="k-muted">Ø PER DAY</text>
   <text x="460" y="505" class="v-white">2.3</text>
   <text x="585" y="505" class="unit">/ day</text>
-  <text x="460" y="537" class="sub">across 366 days</text>
+  <text x="460" y="537" class="sub">across 367 days</text>
 
   <text x="54" y="595" class="k-muted">CONTRIBUTIONS / MONTH</text>
   <text x="786" y="595" text-anchor="end" class="sub">peak 241</text>
